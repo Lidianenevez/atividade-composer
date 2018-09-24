@@ -1,0 +1,10 @@
+{
+    "name": "lidianenevez/atividade-composer",
+    "authors": [
+        {
+            "name": "Lidianenevez",
+            "email": "lidianeneves79@gmail.com"
+        }
+    ],
+    "require": {}
+}
