@@ -6,5 +6,7 @@
             "email": "lidianeneves79@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
 }
